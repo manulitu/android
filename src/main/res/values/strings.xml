@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiceGameApp</string>+
+    <string name="enter_name">Enter you username: </string>
+    <string name="stats">Your Stats</string>
+    <string name="select_options_main">Select: </string>
+    <string name="register_new_user_main">Start playing</string>
+    <string name="play_game_main">Play!</string>
+    <string name="view_stats_main">View Stats</string>
+    <string name="name_hint">Nickname</string>
+    <string name="add_player">Add Player</string>
+</resources>
